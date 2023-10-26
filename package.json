@@ -1,0 +1,23 @@
+{
+  "name": "discord-bot-werwolf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node .",
+    "lint": "eslint ."
+  },
+  "author": "json",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://collaborating.tuhh.de/cji1944/discord-bot-werewolf.git"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}

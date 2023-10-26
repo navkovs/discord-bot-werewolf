@@ -1,0 +1,14 @@
+{
+  "prefix": "!",
+  "channel_dead": "Zombie Party",
+  "channel_main": "Dorf",
+  "channel_text": "das-dorf",
+  "channel_werwolf": "werwölfe",
+  "channel_category": "🐺 SPIEL",
+  "channel_cmd": "cmd",
+  "role_admin": "Admin",
+  "role_dead" : "Tod",
+  "role_gm": "GM",
+  "role_mayor": "Bürgermeister",
+  "role_night": "Nacht"
+}
